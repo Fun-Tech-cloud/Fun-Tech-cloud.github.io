@@ -7,3 +7,4 @@
 
 ### Thank you
 :rowboat:
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
